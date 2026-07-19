@@ -25,7 +25,7 @@ The final project, **SkyRune**, is an original game developed as part of the cou
 | Helicopter | Unity / C# | 3D helicopter controller prototype. |
 | Portal | Unity / C# | First-person puzzle prototype. |
 | Dreadhalls | Unity / C# | Horror exploration prototype. |
-| [SkyRune](https://github.com/TU-USUARIO/SkyRune) | Unity / C# | Original final project developed for the course. |
+| [SkyRune](https://github.com/BaAmadoCamunas/game-development-projects/tree/main/cs50-introduction-to-game-development/SkyRune) | Unity / C# | Original final project developed for the course. |
 
 ---
 
