@@ -1,12 +1,12 @@
 # CS50's Introduction to Game Development
 
-This directory contains the projects completed during Harvard University's **CS50's Introduction to Game Development** course.
+This directory summarizes the projects completed during Harvard University's **CS50's Introduction to Game Development** course.
 
-The course covers fundamental concepts of 2D and 3D game development through progressively more complex projects using **LÖVE2D (Lua)** and **Unity (C#)**.
+The course covers fundamental concepts of both 2D and 3D game development through progressively more complex projects using **LÖVE2D (Lua)** and **Unity (C#)**.
 
-As these projects were developed as part of the course assignments, not every project includes an individual README. Their source code has been preserved as originally submitted to reflect the learning process throughout the course.
+In accordance with Harvard CS50's **Academic Honesty Policy**, the source code for the coursework assignments is **not publicly available**, as these projects were submitted through the course infrastructure and are intended for educational purposes.
 
-The final project, **SkyRune**, is fully documented and includes additional information about its design and implementation.
+The final project, **SkyRune**, is an original game developed as part of the course and is publicly available with full documentation.
 
 ---
 
@@ -14,18 +14,18 @@ The final project, **SkyRune**, is fully documented and includes additional info
 
 | Project | Technology | Description |
 |----------|------------|-------------|
-| [Pong](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/pong) | LÖVE2D / Lua | Recreation of the classic Pong game. |
-| [Flappy Bird](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/flappy) | LÖVE2D / Lua | Side-scrolling game focused on collision detection. |
-| [Breakout](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/breakout) | LÖVE2D / Lua | Arcade brick-breaker. |
-| [Mario](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/mario) | LÖVE2D / Lua | Side-scrolling platformer. |
-| [Match-3](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/match) | LÖVE2D / Lua | Grid-based puzzle game. |
-| [Zelda](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/zelda) | LÖVE2D / Lua | Top-down adventure game. |
-| [Angry Birds](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/angry) | LÖVE2D / Lua | Physics-based game. |
-| [Pokemon](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/pokemon) | LÖVE2D / Lua | RPG prototype with turn-based mechanics. |
-| [Helicopter](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/helicopter) | Unity / C# | 3D helicopter controller prototype. |
-| [Portal](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/portal) | Unity / C# | First-person puzzle prototype. |
-| [Dreadhalls](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/dreadhalls) | Unity / C# | Horror exploration prototype. |
-| [SkyRune](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/final) | Unity / C# | Original final project for the course. |
+| Pong | LÖVE2D / Lua | Recreation of the classic Pong game. |
+| Flappy Bird | LÖVE2D / Lua | Side-scrolling game focused on collision detection. |
+| Breakout | LÖVE2D / Lua | Arcade brick-breaker. |
+| Mario | LÖVE2D / Lua | Side-scrolling platformer. |
+| Match-3 | LÖVE2D / Lua | Grid-based puzzle game. |
+| Zelda | LÖVE2D / Lua | Top-down adventure game. |
+| Angry Birds | LÖVE2D / Lua | Physics-based game. |
+| Pokemon | LÖVE2D / Lua | RPG prototype with turn-based mechanics. |
+| Helicopter | Unity / C# | 3D helicopter controller prototype. |
+| Portal | Unity / C# | First-person puzzle prototype. |
+| Dreadhalls | Unity / C# | Horror exploration prototype. |
+| [SkyRune](https://github.com/TU-USUARIO/SkyRune) | Unity / C# | Original final project developed for the course. |
 
 ---
 
@@ -44,4 +44,6 @@ Throughout these projects I gained practical experience with:
 - Scene management
 - Animation
 
-**Note:** projects are hosted in their original GitHub repositories, where they were developed and submitted during the course.
+---
+
+> **Note:** The coursework repositories are intentionally not linked in order to comply with Harvard CS50's Academic Honesty Policy. Only the original final project (**SkyRune**) is publicly available.
