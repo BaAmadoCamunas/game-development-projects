@@ -12,8 +12,8 @@ The final project, **SkyRune**, is fully documented and includes additional info
 
 ## Projects
 
-| Project | Technology | Description | Repository |
-|----------|------------|-------------|------------|
+| Project | Technology | Description |
+|----------|------------|-------------|
 | [Pong](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/pong) | LÖVE2D / Lua | Recreation of the classic Pong game. |
 | [Flappy Bird](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/flappy) | LÖVE2D / Lua | Side-scrolling game focused on collision detection. |
 | [Breakout](https://github.com/me50/Barbara210/tree/games50/projects/2018/x/breakout) | LÖVE2D / Lua | Arcade brick-breaker. |
