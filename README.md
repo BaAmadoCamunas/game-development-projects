@@ -10,9 +10,9 @@ The portfolio includes projects created during my **Bachelor's Degree in Video G
 
 | Project | Engine | Language | Type |
 |----------|--------|----------|------|
-| **[A Flower's Dream: The Beginning](./a-flowers-dream-the-beginning/)** | Unity | C# | University Team Project |
-| **[Tiny Tussle](./tiny-tussle/)** | Unity | C# | University Team Project |
-| **[CS50's Introduction to Game Development](./cs50-introduction-to-game-development/)** | LÖVE2D / Unity | Lua / C# | Harvard CS50 Coursework |
+| **A Flower's Dream: The Beginning** | Unity | C# | University Team Project |
+| **Tiny Tussle** | Unity | C# | University Team Project |
+| **CS50's Introduction to Game Development** | LÖVE2D / Unity | Lua / C# | Harvard CS50 Coursework |
 
 ---
 
